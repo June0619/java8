@@ -1,5 +1,8 @@
 # JAVA8
 
+> [백기선 - 더 자바, JAVA 8 강의내용 요약 레포](https://www.inflearn.com/course/the-java-java8/dashboard) 
+
+
 ## 함수형 인터페이스
 
 - Interface 내부에 Static, Default 메서드 추가 가능하다

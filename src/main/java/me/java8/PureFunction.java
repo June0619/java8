@@ -1,7 +1,7 @@
 package me.java8;
 
 @FunctionalInterface
-public interface PureFunctionInterface {
+public interface PureFunction {
 
     int doIt(int number);
 }

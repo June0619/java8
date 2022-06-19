@@ -18,7 +18,7 @@ public class RunSomethingMain {
 
         //순수함수 예시
         int someNumber = 10;
-        PureFunctionInterface pfi = (number) -> {
+        PureFunction pfi = (number) -> {
 
             //외부 값에 의존하거나 외부 값을 건드리면 순수 함수가 아니게 된다.
 //            return number + someNumber;
