@@ -1,5 +1,7 @@
 package me.java8;
 
+import java.util.function.Function;
+
 public class RunSomethingMain {
 
     public static void main(String[] args) {
