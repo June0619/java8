@@ -28,3 +28,6 @@
   - Predicate<T>
   - UnaryOperator<T>
   - BinaryOperator<T>
+
+### 람다 표현식
+
