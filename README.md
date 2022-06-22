@@ -30,4 +30,4 @@
   - BinaryOperator<T>
 
 ### 람다 표현식
-
+- [예제](./src/main/java/me/java8/LambdaMain.java)
