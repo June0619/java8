@@ -38,6 +38,7 @@
   - 람다는 람다 함수를 선언한 스코프와 동일한 Scope 를 가진다.
 
 ### 메소드 레퍼런스
+- [예제](./src/main/java/me/java8/MethodReferenceMain.java)
 - 기존 메소드를 호출해서 사용하는 경우 메소드 레퍼런스를 통해 존재하는 메서드를 활용할 수 있다.
 - 메소드 참조 종류
   - 스태틱 메소드 참조 (type::staticMethod)
