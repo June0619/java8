@@ -47,6 +47,7 @@
   - 생성자 참조 (type::new)
 
 ## 인터페이스의 변화
+- [예제1](./src/main/java/me/java8/DefaultFooMain.java) [예제2](./src/main/java/me/java8/DefaultFoo.java) [예제3](./src/main/java/me/java8/FooInterface.java)
 - 인터페이스 기본 메서드 (default method)
   - default 접근제어자가 붙은 인터페이스는 꼭 재정의 하지 않아도 구현체에서 사용이 가능하다.
   - 상황에 따라 런타임 에러가 발생할 수도 있으므로 implSpec 애노테이션으로 스펙을 명시해준다.
