@@ -58,4 +58,15 @@
 - 인터페이스 스태틱 메서드 (static method)
   - 해당 타입에 대한 유틸리티 메서드를 제공할때 보통 사용한다.
 
+### Some useful default Methods of JAVA8 API
+- Iterable
+  - forEach
+  - spliterator
+- Collection
+  - stream / parallelStream
+  - removeIf(Predicate)
+  - spliterator
+- Comparator
+  - reversed
+  - thenComparing
 
