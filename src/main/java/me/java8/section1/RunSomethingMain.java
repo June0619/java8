@@ -1,6 +1,4 @@
-package me.java8;
-
-import java.util.function.Function;
+package me.java8.section1;
 
 public class RunSomethingMain {
 

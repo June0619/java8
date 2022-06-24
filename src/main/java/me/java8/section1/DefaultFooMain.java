@@ -1,4 +1,4 @@
-package me.java8;
+package me.java8.section1;
 
 public class DefaultFooMain {
 

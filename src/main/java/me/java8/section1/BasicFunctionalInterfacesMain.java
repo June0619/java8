@@ -1,4 +1,4 @@
-package me.java8;
+package me.java8.section1;
 
 import java.util.function.*;
 
