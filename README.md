@@ -84,3 +84,6 @@
     - 이전 상태 값을 참조하는 stateful 한 오퍼레이션이 존재한다.
   - 종료 오퍼레이터
     - Stream 을 리턴하지 않는다
+
+## Optional
+### Introduce
