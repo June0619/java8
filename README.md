@@ -96,3 +96,9 @@
   - Optional 리턴타입에서 Null 을 리턴하면 안된다. (널체크 비용이 또 발생)
   - 원시타입용 Optional 은 따로 있다. (Optional 에 넣으면 박싱 언박싱으로 성능 저하)
   - Collection, Map 등 자체적으로 *비어있음* 을 나타낼 수 있는 객체에 사용하지 말 것
+
+## Date Time
+- 새로운 Date Time API 가 생긴 이유
+  - Thread Safe (Immutable)
+  - 클래스 이름이 명시적임
+  - 버그 발생 여지가 많았음 (타입 안정성)
