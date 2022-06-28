@@ -110,5 +110,9 @@
 - 쓰레드를 만들고 관리하는 작업을 애플리케이션에서 분리해서 Executors 에게 위임
 - 쓰레드 생성, 주기 관리, 실행 등의 작업을 수행한다.
 
+### Callable & Future
+- [예제 코드](./src/main/java/me/java8/section2/CallableFutureApp.java)
+- 비동기적 작업의 결과를 가져오거나 상태를 확인할 수 있다.
+
 
 
