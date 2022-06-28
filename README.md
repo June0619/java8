@@ -102,3 +102,13 @@
   - Thread Safe (Immutable)
   - 클래스 이름이 명시적임
   - 버그 발생 여지가 많았음 (타입 안정성)
+
+## JAVA Concurrent Programming
+### Executors
+- [예제 코드](./src/main/java/me/java8/section2/ConcurrentApp.java)
+- 개발자가 Thread 를 직접 다루면 너무 복잡해지기 때문에 나온 고수준 인터페이스
+- 쓰레드를 만들고 관리하는 작업을 애플리케이션에서 분리해서 Executors 에게 위임
+- 쓰레드 생성, 주기 관리, 실행 등의 작업을 수행한다.
+
+
+
