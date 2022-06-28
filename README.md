@@ -114,5 +114,12 @@
 - [예제 코드](./src/main/java/me/java8/section2/CallableFutureApp.java)
 - 비동기적 작업의 결과를 가져오거나 상태를 확인할 수 있다.
 
+### CompletableFuture
+- [예제 코드](./src/main/java/me/java8/section2/CompletableFutureApp.java)
+- 대표적인 기능
+  - 비동기 작업 실행
+  - 콜백 
+  - 작업 조합
+  - 예외 처리
 
 
