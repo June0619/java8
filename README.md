@@ -122,4 +122,11 @@
   - 작업 조합
   - 예외 처리
 
+## ETC
+### 애노테이션
+- [예제 코드](./src/main/java/me/java8/section3/AnnotationApp.java)
+- 타입 파라미터에 사용 가능하다.
+- 중복해서 사용할 수 있다.
+
+
 
